@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+requests
+gunicorn
+# Add any other packages your specific Vision AI needs
